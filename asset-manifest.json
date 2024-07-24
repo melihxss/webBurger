@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/webBurger/static/css/main.9b2c34b5.css",
+    "main.js": "/webBurger/static/js/main.94850a83.js",
+    "static/js/453.1cb490bf.chunk.js": "/webBurger/static/js/453.1cb490bf.chunk.js",
+    "static/media/banner.png": "/webBurger/static/media/banner.57fa383005506aceb225.png",
+    "static/media/banneryeni.jpg": "/webBurger/static/media/banneryeni.c76334f1e7458eac951e.jpg",
+    "static/media/burger.jpg": "/webBurger/static/media/burger.0a7078db538aca4df2fe.jpg",
+    "static/media/burgerlogo.png": "/webBurger/static/media/burgerlogo.59f6eaddfc098a62c68b.png",
+    "index.html": "/webBurger/index.html",
+    "main.9b2c34b5.css.map": "/webBurger/static/css/main.9b2c34b5.css.map",
+    "main.94850a83.js.map": "/webBurger/static/js/main.94850a83.js.map",
+    "453.1cb490bf.chunk.js.map": "/webBurger/static/js/453.1cb490bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2c34b5.css",
+    "static/js/main.94850a83.js"
+  ]
+}
