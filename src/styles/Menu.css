@@ -1,0 +1,43 @@
+.menuContainer{
+    height: auto;
+    width: 100%;
+}
+.menuList {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    
+    
+  }
+.menuCard{
+    border: 3px solid black;
+    border-radius: 15px;
+    margin: 15px;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0;
+   
+}  
+.menuCard img{
+    
+   
+    max-width: 100%;
+    max-height: 70%;
+
+}
+.menuItem{
+    max-height: 100%;
+}
+.productName{
+    margin: 0;
+}
+.poductContent{
+    margin-bottom: 5px;
+}
+.productPrice{
+    margin: 0;
+}

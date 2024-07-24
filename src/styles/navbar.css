@@ -1,0 +1,24 @@
+.navBar {
+    display: flex;
+    padding: 10px 15px;
+    align-items: center;
+    background-color: brown;
+}
+.logo img{
+    height: 70px;
+    cursor: pointer;
+}
+.navbarMenu{
+    margin-left: auto;
+}
+.navbarMenu a{
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+    font-weight: 700;
+    
+}
+.navbarMenu a:hover{
+    color: lightgrey;
+    transition: 0.3s;
+}
